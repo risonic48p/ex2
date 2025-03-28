@@ -47,3 +47,6 @@ CREATE TABLE intervals (
 
 -  Вызвать команду нахождения пересечения интервалов  
    ```php artisan intervals:list --left=15 --right=30```
+
+-  Запуск тестов
+   ```php artisan test```
